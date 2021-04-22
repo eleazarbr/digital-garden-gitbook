@@ -26,7 +26,3 @@ Algunos proyectos interesantes para analizar:
 - [Bulma Templates](https://bulmatemplates.github.io/bulma-templates/)
 - [Logo Maker](https://www.designevo.com/logo-maker/)
 
-
-
-
-
